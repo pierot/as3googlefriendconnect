@@ -1,0 +1,2 @@
+Use this library in combination with AS3OSFlashBridge found at http://code.google.com/p/as3osflashbridge/.
+The javascript / html implementation can be found at http://github.com/pierot/osflashbridge/tree/master
